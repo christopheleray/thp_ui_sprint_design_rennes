@@ -20,27 +20,27 @@ header {
   justify-content: flex-start;
 }
 
-.nabvar-menu {
-  font-weight: 1.4em;
+.navbar-menu {
   display: flex;
-  justify-content: center;
+  justify-content: center;  
+  font-weight: 1.4em;
 }
 
 .avatar {
   width: 20%;
   display: flex;
   justify-content: flex-end;
-
 }
 
+.navbar-menu ul {
+  display: flex;
+  flex-direction: row;
+}
 
 .btn-navbar {
   width: 60%;
   list-style: none;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+  display: block;
   border-radius: 35px;
   padding: 10px;  
   letter-spacing: .5em;
