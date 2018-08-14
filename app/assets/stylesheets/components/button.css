@@ -1,7 +1,7 @@
 .btn-blue {
-  margin-top: 20px;
   font-weight: 1.2em;
   text-align: center;
+  margin-bottom: 50px;
 }
 
 .btn-blue a {
@@ -17,4 +17,8 @@
   background-color: #f2f2f2;
   border: 1px solid #a5a5a5;
   padding: 10px 30px; 
+}
+
+.btn-banner{
+   margin-top: 50px;
 }

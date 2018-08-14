@@ -1,17 +1,18 @@
 .main-banner {
-  background-image: url("app/assets/images/main-banner.jpg"); 
-  top: 70px;
-  left: 0px;
+  position: static;
+  background-image:  url('/assets/main-banner.jpg'); 
+  background-size: cover;
+  height: 500px;
 }
 
 .main-text {
-  margin-top: 180px;
+  margin-top: 70px;
   font-weight: 1.4em;
   text-align: center;
 }
 
 .text-banner {
-  margin-top: 20px;
+  margin-top: 70px;
   font-weight: 1.2em;
   text-align: center;
 }
