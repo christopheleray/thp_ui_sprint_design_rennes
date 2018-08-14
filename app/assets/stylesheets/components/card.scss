@@ -4,6 +4,11 @@
   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,124,193,1) 42%, rgba(0,212,255,1) 100%);
 }
 
+.title {
+  text-align: center;
+
+}
+
 .card {
   display: flex;
   justify-content: space-around;
@@ -14,7 +19,7 @@
 }
 
 .card1 {
-  background: image-url('card1.jpg'); 
+  background:  image-url('card1.jpg'); 
   background-size: cover;
 }
 
