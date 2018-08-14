@@ -1,18 +1,20 @@
+.btn-blue {
+  margin-top: 20px;
+  font-weight: 1.2em;
+  text-align: center;
+}
+
 .btn-blue a {
-  display: inline-block;
-  text-decoration: none;
   background-color: #007cc1;
   color: #f2f2f2;
   border-radius: 20px;
   border: 1px solid #f2f2f2;
-  padding: 10px 20px; 
-  text-shadow: 1px 0 0 #fff;
-}
+  padding: 10px 30px; 
 
-.btn-navbar a:hover {
-  display: inline-block;
+}
+.btn-blue a:hover {
   color: #007cc1;
   background-color: #f2f2f2;
   border: 1px solid #a5a5a5;
-  padding: 10px 20px; 
+  padding: 10px 30px; 
 }
