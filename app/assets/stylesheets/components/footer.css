@@ -1,5 +1,21 @@
-.main-footer {
-  display: block;
-  margin: auto;
-  text-align: center;
+.site-footer {
+  padding: 0;
+  margin: 0;
+  letter-spacing: 3px;
+}
+
+
+.sn {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+
+.btm-footer {
+  border-top: 1px solid #f2f2f2;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  font-size: 0.8em;
 }
