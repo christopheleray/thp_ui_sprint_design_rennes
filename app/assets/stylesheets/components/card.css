@@ -1,4 +1,35 @@
+.main-card {
+  display: flex;
+  justify-content: space-between;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,124,193,1) 42%, rgba(0,212,255,1) 100%);}
+
 .card {
-  width: 100%;
-  background-color: #007CC1;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 50px;
+  margin-left:50px;
+  flex-direction: column;
+  margin: auto;
+}
+
+.card1 {
+  background-image: url('/assets/card1.jpg'); 
+  background-size: cover;
+}
+
+.card2 {
+  background-image: url('/assets/card2.jpg'); 
+  background-size: cover;
+}
+
+.card3 {
+  background-image: url('/assets/card3.jpg'); 
+  background-size: cover;
+}
+
+.card-title, .card-details{
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #f2f2f2;
+  text-align: center;
 }
