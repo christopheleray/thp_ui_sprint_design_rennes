@@ -2,14 +2,14 @@
 /* --- Import Google Fonts stylesheets --- */
 @import url("http://fonts.googleapis.com/ css?family=Open+Sans:400,300,700|Montserrat:400,700");
 /* --- Import Components stylesheets --- */ 
-@import url("components/avatar.css"); 
-@import url("components/button.css");
-@import url("components/navbar.css");
-@import url("components/card.css");
-@import url("components/tab.css");
-@import url("components/footer.css");
-@import url("components/about.css");
-@import url("components/tab.css");
+@import url("components/avatar.scss"); 
+@import url("components/button.scss");
+@import url("components/navbar.scss");
+@import url("components/card.scss");
+@import url("components/tab.scss");
+@import url("components/footer.scss");
+@import url("components/about.scss");
+@import url("components/tab.scss");
 
 /* --- Fonts --- */ 
 body {
